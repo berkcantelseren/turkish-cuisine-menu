@@ -1,5 +1,7 @@
 # turkish-cuisine-menu
 
+Siteye göz atmak için --> https://berkcantelseren.github.io/turkish-cuisine-menu/
+
 #### Map , function ve diğer methodları tekrar etmek amacıyla yapmış olduğum bir Javascript projesi.
 
 <img src="img/Screenshot_1.png">
