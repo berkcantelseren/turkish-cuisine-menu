@@ -1,14 +1,12 @@
 # turkish-cuisine-menu
 
-Siteye göz atmak için --> https://berkcantelseren.github.io/turkish-cuisine-menu/
+Live --> https://berkcantelseren.github.io/turkish-cuisine-menu/
 
-#### Map , function ve diğer methodları tekrar etmek amacıyla yapmış olduğum bir Javascript projesi.
+#### I did repeat Map , Function and other javascript methods on this project.
 
 <img src="img/Screenshot_1.png">
 
-#### Konuları tekrar etmek ve projeye dönüştürmek açısından çok faydalı bir proje oldu.
+#### It was great to repeat some things and write vanilla JS
 
 <img src="img/Screenshot_2.png">
-
-## NOT: Asıl olay JS tekrarı ve methodları öğrenmek olduğundan CSS'in üstüne çok düşemedim. İlerliyen zamanlarda projeyi güncellenip tasarım olarak daha güzel hale getiriceğim.
 
