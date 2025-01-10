@@ -2,7 +2,7 @@
 
 Live --> [Turkish Cusine Menu](https://berkcantelseren.github.io/turkish-cuisine-menu/)
 
-#### I did repeat Map , Function and other javascript methods on this project.
+#### I did repeat Map , Function, Object, If-Statement and other javascript methods on this project.
 
 <img src="img/Screenshot_1.png">
 
